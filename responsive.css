@@ -1,0 +1,563 @@
+@media screen and (max-width:430px) {
+
+
+    .maing{
+ 
+font-size: 30px;
+  text-align: center;
+  color: yellow;
+ 
+ 
+    }
+
+.hading-im{
+ display: none;
+}
+
+
+
+
+ .bimg{
+  
+    width:100%;
+    height:60px;
+    
+} 
+
+.bimg img{
+    width: 100%;
+    height: 420px;
+}
+
+.dwell h1{
+    padding-bottom: 40px;
+    font-size: 20px;
+   
+   text-align:center ;
+ margin-left: 140px;
+  
+}
+
+
+.home-bar{
+    flex-direction: column;
+    padding: 10px 0px;
+    text-align: center;
+    display: flex;
+    width: 100%;
+}
+.home-bar a{
+   
+   
+    text-align: center;
+    border: 1px solid red;
+    background-color: bisque;
+    color: yellow;
+}
+ 
+/* next */
+
+ .New-Properties{
+    padding-top: 20px ;
+    font-size: 25px;
+    
+
+
+} 
+.ties{
+    font-size: 10px;
+    color: white;
+    text-transform: uppercase;
+}
+
+
+
+.Explore {
+    text-align: center;
+margin-top: 0px;
+}
+
+.are{
+    text-align: center;
+     font-size: 10px;
+       
+        font-weight: 70px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    font-family: Cinzel;
+
+
+
+
+
+}
+.home-im{
+    text-align: center;
+   
+    padding-top: 40px;
+   display: block;
+   width:428px;
+}
+
+.home-im img{
+    text-align: center;
+   width: 428px;
+ 
+ }
+ 
+
+.buyq{
+ 
+
+ color: yellow;
+ text-align: center;
+
+padding-left: 100px;
+margin-top: -330px;
+
+
+
+}
+
+.buys{
+    text-align: center;
+    margin-left: 70px;
+    display:flex;
+}
+
+
+
+.rents{
+    text-align: center;
+   margin-top: 0px;
+    
+   
+}
+.rent{
+   text-align: center;
+       color: red;
+     margin-left: -690px;
+    font-size: 60px;
+}
+.new-pro{
+    text-transform: uppercase;
+    font-size: 22px;
+      text-align: center;
+     
+}
+.sale{
+    font-size: 25px;
+    text-align: center;
+   margin-top: 10px;
+}
+
+
+
+
+.thatdh-im{
+    text-align: center;
+   display: block;
+       
+
+
+}
+.thatdh-imgs {
+  
+ display: block;
+   padding: auto;
+    height: 250px;
+    width: 428px;
+    margin-left: -30px;
+    padding-bottom: 400px;
+   
+}
+
+
+.thatdh-imf{
+ display:inline-block;
+
+}
+
+
+
+
+
+.buy{
+    display: none;
+}
+.buys2{
+    display: none;
+}
+
+
+
+
+
+.maj-line{
+    display: none;
+}
+
+
+
+
+
+
+
+.perry1{
+
+    font-size: 30px;
+    
+  
+  color: red;
+  
+  padding: 10px 10px;
+margin-top: -1050px;
+
+margin-left: -155px;
+}
+    
+  
+     .perry2{
+    text-align: center;
+    font-size: 18px;
+  padding: 5px 5px;
+  margin-left: -195px;
+
+    text-decoration: none;
+    }
+    
+    .perry3{
+        text-align: center; 
+        font-size: 18px;
+        padding: 10px 10px;
+       
+      color: rgb(75, 65, 65);
+      margin-left: -305px;
+    } 
+ 
+
+
+
+    .icoms{
+        display:flex;
+        padding: 5px 5px;
+        width: 40px;
+        height: 40px;
+        padding: 10px 15px;
+        padding-right: 45px;
+        margin-top: -20px;
+        margin-left: 12px;
+     }
+     .incons{
+        display: flex;
+        text-align: center;
+       
+     }
+
+     .beds-bls{
+margin-left: -30px;
+padding: 5px 15px;
+     }
+
+     .beds-blss{
+        padding-left: 30px;
+     }
+     .beds-blssd{
+            margin-left: -20px;
+            padding-left: 10px;
+     }
+
+
+
+/* secent item for  responsive
+ */
+
+
+
+
+
+
+.perry4{
+
+    font-size: 30px;
+    
+  margin-top: 320px;
+  color: red;
+  
+  padding: 15px 15px;
+  
+margin-left: -50px;
+    
+    
+    }
+   
+     .perry5{
+    text-align: center;
+    font-size: 18px;
+  padding: 10px 10px;
+ 
+  margin-left: -155px;
+    text-decoration: none;
+    }
+    
+    .perry6{
+        text-align: center; 
+        font-size: 18px;
+        padding: 10px 10px;
+        margin-left: -275px;
+     
+      color: rgb(75, 65, 65);
+    } 
+ 
+
+
+    .inconss{
+        display:flex;
+        padding: 5px 5px;
+        width: 40px;
+        height: 40px;
+        padding: 10px 35px;
+        margin-left: -35px;
+        margin-top: -240px;
+        padding-bottom: 40px;
+        
+        
+     }
+     .icomsn{
+        display: flex;
+        text-align: center;
+        padding-left: 35px;
+     }
+
+
+
+.beds-blst{
+    margin-left:-10px;
+}
+
+
+.beds-blssdg{
+    margin-left: -2px;
+}
+
+
+
+/* new calact */
+
+.easy p{
+    padding-bottom: 40px;
+   
+    font-size: 17px;
+  
+}
+
+.parant-div{
+    text-align: center;
+    margin-left: -355px;
+    
+    font-size: 20px;
+    
+   
+}
+
+
+
+
+
+.easy{
+
+   
+    width: 428px;
+    height: 150px;
+
+margin-left: 355px;
+padding-bottom: 100px;
+background-color: darkgray;
+  
+}
+
+
+
+/* next */
+
+.one-step{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+
+.call-us{
+    text-align: center;
+    margin-left: 10px;
+    padding: 20px 20px;
+    padding-bottom: 180px;
+    
+       
+   }
+
+   .call-uss{
+    text-align: center;
+    margin-left: 10px;
+    padding: 20px 20px;
+    padding-bottom: 180px;
+    
+       
+   }
+   
+.calll-us{
+  
+    margin-left: -5px;
+    padding: 20px 20px;
+    
+    
+       
+   }
+   
+/* next section */
+
+
+.contact{
+    font-size: 30px;
+    font-family: Arial, ;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+text-align: center;
+padding: 20px 20px;
+padding-top: 40px;
+padding-bottom: 30px;
+color: white;
+color: red;
+
+}
+
+
+.text-home{
+    font-size: 10px;
+    font-family: arial,;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    text-align: left;
+    padding-left: 100px;
+    color: white;
+
+  }
+
+  .home-text{
+    padding-top: 30px;
+    padding-left: 100px;
+    font-family: Helvetica;
+    color: white;
+    padding-bottom: 30px;
+
+  }
+
+
+  .all-formst input {
+    
+    font-size: 20px;
+    padding: 20px 20px;
+    border:none;
+    border-bottom: 1px solid black;
+    margin-left: 100px;
+  
+
+}
+label{
+    text-align: center;
+    margin-left: 100px;
+    color: wheat;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+.submits{
+    text-align: center;
+    padding: 10px 30px;
+    
+    color: red;
+}
+
+.submitst{
+    text-align: center;
+    padding-left: 50px;
+    margin-top: 30px;
+   
+
+}
+
+.dwell{
+    
+    font-size: 20px;
+color: red;
+
+}
+
+.dwell-prop{
+   text-align: center;
+  padding-top: 40px;
+  padding-right: 10px;
+  color: white;
+  margin-left: -20px;
+}
+
+
+
+
+.home-link-contaner a{
+    text-decoration: none;
+    text-align: center;
+    display:block;
+    padding: 10px 10px;
+ margin-left: -240px;
+ color:white
+ }
+
+ .treey-francine {
+    text-align: center;
+       
+       padding-left: 100px;
+       margin-top: -140px;
+       color: white;
+     
+    } 
+
+
+
+    .last-linepowered{
+        font-size: 12px;
+        line-height: 30px;
+     padding: 30px 20px;
+     margin-top: 30px;
+        text-align: center;
+        
+        color: white;
+    }
+
+    .hading-ims{
+
+        display: inline;
+            
+          padding-left: 150px ;
+            
+              }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+    
